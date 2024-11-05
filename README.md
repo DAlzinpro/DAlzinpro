@@ -2,6 +2,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/DAlzinpro/DAlzinpro/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">🥇  Um pouco sobre mim:</h3>
 
 ###
@@ -14,7 +18,9 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -30,20 +36,16 @@
 
 ###
 
+<p align="right">Número de Visitas</p>
+
+###
+
 <br clear="both">
 
-<h1 align="center">Número de visitas</h1>
+<img align="left" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuZDltaGh0OXgxeG1uazV5dHY5dXg4bml5M2I4bmR6OWgzaWJhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w9wfZxg6RSqhq/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DAlzinpro/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cDJyN3dnYnh0dzFodHVwb2JlcXd5YzU4OGZrcjNkZmx4eGgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/DAlzinpro/count.svg?"  />
 
 ###
