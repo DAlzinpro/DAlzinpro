@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DAlzinpro/DAlzinpro/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🥇  Um pouco sobre mim:</h3>
 
 ###
@@ -42,7 +38,7 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuZDltaGh0OXgxeG1uazV5dHY5dXg4bml5M2I4bmR6OWgzaWJhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w9wfZxg6RSqhq/giphy.gif"  />
+<img align="left" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuZDltaGh0OXgxeG1uazV5dHY5dXg4bml5M2I4bmR6OWgzaWJhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w9wfZxg6RSqhq/giphy.gif"  />
 
 ###
 
