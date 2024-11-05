@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🥇  Um pouco sobre mim:</h2>
+<h3 align="left">🥇  Um pouco sobre mim:</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">💻 Algumas Linguagens de Programação</h2>
+<h3 align="left">💻 Algumas Linguagens de Programação</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<h3 align="center">______________________________________________________________________<br><br>Número de visitas</h3>
+<h1 align="center">Número de visitas</h1>
 
 ###
 
